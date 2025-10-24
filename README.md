@@ -119,7 +119,6 @@ Other formats supported by Bio-Formats can be added by modifying the macro heade
 
 ## Citation
 If you use these macros in your research, please cite:  
-> Emily J. Yang, *FIJI Macros for Quantitative Analysis of Actin Cable Orientation*, [2025].
 > Yang, E.J.-N., Filpo, K., Boldogh, I., Swayne, T.C., and Pon, L.A. "Tying up loose ends: an actin cable organizing center contributes to actin cable polarity, function and quality control in budding yeast." submitted. [2025]
 
 
