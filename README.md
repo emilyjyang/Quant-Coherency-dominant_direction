@@ -152,6 +152,15 @@ Individual cropped and aligned mother cells prepared for OrientationJ analysis.
 
 ---
 
+### 5. Example quantification results
+Quantified results shown in superplots, highlighted by the orange boxes.
+
+(<img width="2044" height="402" alt="AOC_Figure4-crn1-v14" src="https://github.com/user-attachments/assets/0590b137-b33a-478e-afe1-7db76cddd1e5" />
+
+
+)
+
+---
 
 
 
