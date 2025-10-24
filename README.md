@@ -122,7 +122,8 @@ Raw fluorescence image (single channel or multi-channel) before MIP and processi
 ### 2. Example Cellpose-Processed Mask
 Cellpose segmentation mask showing individual cells with separated mother and bud.
 
-![Example Cellpose Mask](<img width="848" height="848" alt="JYY028-trial1-01-jdecon15-max_cp_masks" src="https://github.com/user-attachments/assets/9f1b2fdf-78e4-4074-ac70-2b70beb9b1ee" />
+![Example Cellpose Mask](<img width="848" height="848" alt="JYY028-trial1-01-jdecon15-max_cp_masks" src="https://github.com/user-attachments/assets/e2ab6491-c62a-48fe-9c64-01305c79fb55" />
+
 )
 
 ---
