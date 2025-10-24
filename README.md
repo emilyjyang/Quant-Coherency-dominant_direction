@@ -110,6 +110,47 @@ Other formats supported by Bio-Formats can be added by modifying the macro heade
 
 ---
 
+### 1. Example Input Image
+Raw fluorescence image (single channel or multi-channel) before MIP and processing.
+
+![Example Input Image](<img width="848" height="848" alt="JYY028-trial1-01-jdecon15-max tif (RGB)" src="https://github.com/user-attachments/assets/b498a5b8-1591-4bcd-886b-4cc6def75675" />
+)
+
+---
+
+### 2. Example Cellpose-Processed Mask
+Cellpose segmentation mask showing individual cells with separated mother and bud.
+
+![Example Cellpose Mask](<img width="848" height="848" alt="JYY028-trial1-01-jdecon15-max_cp_masks" src="https://github.com/user-attachments/assets/d85fd19c-7c50-453a-b7f9-5dcfd75411bb" />)
+
+---
+
+### 3. Example Cell Marked Image
+Cell selection and numbering as defined in the ROI selection step of the macro.
+
+![Example Cell Marked Image](<img width="848" height="848" alt="0-JYY028-trial1-01-jdecon15cells-marked" src="https://github.com/user-attachments/assets/ef29c2fc-3dd2-4e23-933d-ea47afa572c0" />
+)
+
+---
+
+### 4. Example Cropped and Rotated Cells for Coherency Measurement
+Individual cropped and aligned mother cells prepared for OrientationJ analysis.
+
+**Cell 1:**
+![Example Cropped Cell 1](<img width="106" height="99" alt="0-JYY028-trial1-01-jdecon15-cell008-clear-rotated-noline" src="https://github.com/user-attachments/assets/d2bdcbd0-1b65-45c3-baeb-5cd937cc4d92" />
+
+)
+
+**Cell 2:**
+![Example Cropped Cell 2](<img width="92" height="79" alt="0-JYY028-trial1-01-jdecon15-cell011-clear-rotated-nolines" src="https://github.com/user-attachments/assets/40b7f070-efab-4bc4-b73b-0d75cb03b72a" />
+
+)
+
+---
+
+
+
+
 ## Notes
 - Ensure **mother and bud** are properly separated in the Cellpose mask before running the quantification macro.  
 - Adjust **crop size** and rotation parameters in the macro header as needed.  
