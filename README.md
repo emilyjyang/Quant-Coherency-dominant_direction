@@ -103,10 +103,10 @@ Other formats supported by Bio-Formats can be added by modifying the macro heade
 | Output Type | Description | Folder |
 |--------------|-------------|--------|
 | Coherency and dominant angle | OrientationJ measurements for each cell | `1-Coherency` |
-| Patch masks | Regions of bright actin patches removed prior to analysis | `PatchMask` |
-| Cell number ROIs | Cell identifiers saved during manual selection | `ROI-CellNumber` |
-| Axis ROIs | Mother–bud axis lines | `ROI-Axis` |
-| Rotated cell images | Aligned actin structures used for orientation analysis | `Cleaned-Rotated` |
+| Patch masks | Regions of bright actin patches removed prior to analysis | output folder |
+| Cell number ROIs | Cell identifiers saved during manual selection | output folder |
+| Axis ROIs | Mother–bud axis lines | output folder |
+| Rotated cell images | Aligned actin structures used for orientation analysis | output folder |
 
 ---
 
